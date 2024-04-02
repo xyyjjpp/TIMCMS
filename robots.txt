@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Sitemap: http://www.tim.com/sitemap.xml
+Sitemap: http://www.tim.com/sitemap.html
+Sitemap: http://www.tim.com/sitemap.txt
