@@ -1,4 +1,4 @@
-Telegram: **[TIMCMS](https://t.me/timcms)**  
+作者: **[TIMCMS](https://t.me/timcms)**  
 gpt key购买: **[GPT Key](https://gpt.myyjjpp.com)**  
 
 ## 素材包介绍
