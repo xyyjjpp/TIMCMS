@@ -1,0 +1,558 @@
+/* -------------------------------------------------
+  Large Screen. 
+---------------------------------------------------*/
+
+@media (min-width: 1024px) and (max-width: 1600px) {
+	
+
+
+
+}
+
+/* -------------------------------------------------
+  Laptop Screen 
+---------------------------------------------------*/
+
+@media (min-width: 1170px) and (max-width: 1366px) {
+
+.em-feature-title h2 {
+	font-size: 17px;
+}
+.portfolio_content_inner {
+	padding: 10px 92px 10px 18px;
+}	
+.curosel-style .owl-nav div {
+	left: 15px;
+}
+.curosel-style .owl-nav .owl-next {
+	left: auto;
+	right: 15px;
+}	
+
+.testimonial_list .owl-dots {
+	display: none;
+}
+.slider-navegarion-style-one .slick-dots {
+	bottom: 46px;
+}
+.portfolio_info p {
+	padding-bottom: 9px;
+}
+.portfolio_info p b {
+	width: 88px;
+}
+	
+}
+
+
+/* -------------------------------------------------
+  Old Desktop :992
+---------------------------------------------------*/
+
+@media (min-width: 992px) and (max-width: 1169px) {
+.slider-navegarion-style-one .slick-dots {
+	bottom: 46px;
+}
+
+.menu-height-space {
+    height: 0;
+}
+.sbi_photo_wrap {
+	width: 33.33%;
+}
+.curosel-style .owl-nav div {
+	left: 15px;
+}
+.curosel-style .owl-nav .owl-next {
+	left: auto;
+	right: 15px;
+}
+.section-title.t_center.port p {
+	width: 100%;
+}
+.recent-post-text h4 a {
+	font-size: 13px;
+}
+.dreamit_about {
+	padding: 0 0 0 31px;
+}
+.blog-page-title a {
+	font-size: 21px;
+}
+.em-service-title h2 {
+	font-size: 18px;
+}
+.dreamit-blog-meta-left a, .dreamit-blog-meta-right a, .dreamit-blog-meta-left span, .dreamit-blog-meta-right span {
+	margin-right: 5px;
+	font-size: 14px;
+}
+.footer-middle .recent-post-text > h4 {
+	margin-top: 0;
+}
+.footer-middle .recent-post-item {
+	clear: both;
+	margin-bottom: 10px;
+}
+.portfolio_info p {
+	padding-bottom: 9px;
+}
+.portfolio_info p b {
+	width: 88px;
+}
+
+}
+/* -------------------------------------------------
+  Tablet Screen : 768
+---------------------------------------------------*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.mean-container .mean-bar::before {
+	top: 15px;
+}
+.em-feature {
+	margin-bottom: 30px;
+}
+.em-feature:hover {
+	margin-top: 0;
+}
+.single_brand_inner {
+	margin-bottom: 30px;
+}
+.team-wrap {
+	margin-bottom: 30px;
+}
+.single_brand_inner {
+	margin-bottom: 50px;
+}
+.single_brand_thumb {
+	text-align: center;
+}
+.brand_area {
+	padding: 100px 0px 50px;
+}
+.sbi_photo_wrap {
+	width: 26%;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.curosel-style .owl-nav div {
+	left: 15px;
+}
+.curosel-style .owl-nav .owl-next {
+	left: auto;
+	right: 15px;
+}
+.team_area {
+	padding: 0px 0 70px;
+}
+.recent-post-text {
+	padding-top: 12px;
+}
+.sbi_photo_wrap {
+	width: 33.333%;
+	 margin-bottom: 0px; 
+	 margin-right: 0px; 
+}
+.comment_field .input-field {
+	width: 100%;
+	float: none;
+}
+.logo {
+	text-align: center;
+	margin-bottom: 33px;
+}
+.dreamit_about {
+	padding: 0 0 0 0px;
+}
+
+.em_contact_form {
+	margin-bottom: 0;
+}
+.contact_bnt {
+	margin-bottom: 50px;
+}
+.contact_info {
+	margin-bottom: 50px;
+}
+.single_company_info {
+	margin-bottom: 20px;
+}
+.em_call-to-action_desc {
+	width: 82%;
+}
+.em_call-to-action_title h2 {
+	font-size: 35px;
+}
+.slider_text > h1 {
+	font-size: 49px;
+	margin-bottom: 15px;
+}
+.slider_text > p {
+	width: 96%;
+	font-size: 14px;
+}
+.em-service-title h2 {
+	font-size: 19px;
+}
+.about_area.about-left-img {
+	padding: 23px 0 85px;
+}
+.section-title h2 {
+	font-size: 32px;
+}
+.dreamit-blog-meta-left a, .dreamit-blog-meta-right a, .dreamit-blog-meta-left span, .dreamit-blog-meta-right span {
+	margin-right: 5px;
+	font-size: 14px;
+}
+.blog-page-title h2 a {
+	font-size: 19px;
+}
+.slider-icon {
+	right: 320px;
+	top: 103px;
+}
+.about-left-img.about-pages .dreamit_about {
+	margin-bottom: 40px;
+}
+.single_image img {
+	width: 100%;
+}
+.section_title_lefts.about_subtitle {
+	margin-top: 40px;
+}
+.blog_dtl_content h2 {
+	font-size: 28px;
+}
+}
+/* -------------------------------------------------
+  Small Mobile : 320
+---------------------------------------------------*/
+
+@media (max-width: 767px) {
+.contact_bnt {
+	margin-bottom: 50px;
+}
+.counter_bnt a {
+	padding: 8px 30px;
+}
+.contact_info {
+	margin-bottom: 50px;
+}
+
+.footer-menu ul {
+  margin: 10px 0 0;
+  text-align: center;
+}
+.footer-menu ul li a {
+  font-size: 14px;
+}
+.copy-right-text p {
+  text-align: center;
+}
+.footer-social-icon a i {
+  font-size: 16px;
+  height: 35px;
+  line-height: 35px;
+  width: 35px;
+}
+.section-title h2 {
+	font-size: 27px;
+}
+.related-title {
+	position: relative;
+	padding-bottom: 58px;
+	margin-left: 15px;
+}
+.section-title.t_center {
+	width: 100%;
+}
+
+.portfolio_content_inner h3 {
+	font-size: 17px;
+}
+.em-team {
+	margin-bottom: 30px;
+}
+.portfolio_menu ul li {
+	padding: 6px 25px;
+}
+.single-video img {
+	background-size: cover;
+	height: 200px;
+}
+.single-video h3 {
+	font-size: 17px;
+	padding-top: 24px;
+}
+.video-icon a {
+	margin-bottom: -10px;
+}
+.video-icon a i {
+	border: 3px solid #fff;
+	width: 70px;
+	height: 70px;
+	line-height: 63px;
+	font-size: 30px;
+}
+.brand_area {
+	padding: 100px 0 70px;
+}
+.single_brand_thumb {
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.section_title_lefts h1 {
+	font-size: 30px;
+}
+.about_singnature img {
+	margin-bottom: 30px;
+}
+.single-video h3 {
+	font-size: 17px;
+}
+.em_call-to-action_title h2 {
+	font-size: 29px;
+}
+.em_call-to-action_title h2 span {
+	font-size: 24px;
+}
+.em_call-to-action_desc {
+	width: 100%;
+}
+.em-call-to_video {
+	display: none;
+}
+.feature_area {
+	padding: 82px 0 70px;
+}
+.contact_area {
+	padding: 80px 0 100px;
+}
+.form_field_inner {
+	width: 100%;
+}
+.curosel-style .owl-nav div {
+	left: 15px;
+}
+.curosel-style .owl-nav .owl-next {
+	left: auto;
+	right: 15px;
+}
+.comment_field .input-field label, .comment_field .textarea-field label {
+	font-size: 13px;
+}
+.recent-post-text h4 a {
+	font-size: 15px;
+}
+.owl-carousel .owl-nav .owl-next, .owl-carousel .owl-nav .owl-prev {
+	display: none;
+}
+.team_area {
+	padding: 0px 0 70px;
+}
+.contact_area {
+	padding: 82px 0 100px;
+}
+.recent-post-text {
+	margin-top: 11px;
+	overflow: hidden;
+}
+.single_image {
+	text-align: center;
+}
+.dreamit-single-blog-title h2 {
+	font-size: 20px;
+}
+.dreamit-blog-meta-left a, .dreamit-blog-meta-left span {
+	font-size: 12px;
+}
+.single-blog-content h1{
+	font-size: 25px;
+}
+.single-blog-content h2 {
+	font-size: 24px;
+}
+.comment_field .input-field {
+	width: 100%;
+	float: none;
+}
+.sidebar-right.content-widget.pdsr {
+	padding-top: 60px;
+}
+.dreamit_about {
+	padding: 41px 0 0;
+}
+.em_testi_text {
+	font-size: 14px;
+}
+.em_contact_form {
+	margin-bottom: 0;
+}
+.about-pages .dreamit_about {
+	padding: 0 31px 50px 0;
+}
+.comments_thumb {
+	float: none;
+	margin-bottom: 20px;
+}
+.blog_comments_section .post_meta span {
+	padding-right: 12px;
+}
+.commentst_meta_reply i {
+	display: none;
+}
+.single_commentst_inner {
+	padding-left: 0;
+}
+.recent-post-text {
+	margin-top: 4px;
+	overflow: hidden;
+}
+.blog-grid .recent-post-text > h4 {
+	margin-top: 0;
+}
+
+.blog_area.blog-grid {
+	padding: 40px 0 72px;
+}
+.slider_text > h1 {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.slider_text > h2 {
+	font-size: 14px;
+}
+.slider_text > p {
+	width: 96%;
+	font-size: 14px;
+}
+.sreadmore {
+	font-size: 12px;
+	padding: 6px 22px;
+	margin: 0 2px 0;
+}
+.about_button a {
+	padding: 13px 20px 13px 20px;
+}
+.about_area.about-left-img {
+	padding: 81px 0 85px;
+}
+.about-left-img .dreamit_about {
+	padding: 0px 0px 0 0px;
+}
+.about-left-img .about_button {
+	margin-bottom: 25px;
+}
+.simple_slider .slider_text > h1 {
+	font-size: 21px;
+}
+.simple_slider .slider_text > h2 {
+	font-size: 22px;
+}
+.simple_slider .slider_content {
+	height: 187px;
+}
+.simple_slider .slider_content {
+	height: 187px;
+}
+.cd-headline.clip span {
+	display: block;
+	padding: 0 0 0;
+}
+.portfolio_nav ul li {
+	display: block;
+	margin-bottom: 7px;
+}
+.portfolio_nav {
+	text-align: center;
+}
+.portfolio_nav ul li::before {
+	display: none;
+}
+.footer_text p {
+	width: 100%;
+}
+.slider_text_inner {
+	width: 100%;
+	height: 200px;
+	padding-top: 34px;
+}
+.slider_text .slider_text_inner > h2 {
+	font-size: 25px;
+}
+.slider_text .slider_text_inner > h1 {
+	font-size: 11px;
+}
+.slider_text .slider_text_inner .cd-headline.clip span {
+	display: inline-block;
+	padding: 0 0 0;
+}
+.slider_text_inner::before {
+	display: none;
+}
+.slick-single-slider .slider-content h1 {
+	font-size: 30px;
+}
+.em_testi_text p {
+	width: 90%;
+}
+.testimonial_list .owl-dots {
+	bottom: -31px;
+}
+.slider-icon {
+	right: 73px;
+	top: 135px;
+}
+.simple_slider_two .slider-icon {
+	top: 257px;
+}
+.blog_dtl_content h2 {
+	font-size: 24px;
+}
+.section_title h1::after {
+	display: none;
+}
+.section_title h1::before {
+	display: none;
+}
+}
+/* -------------------------------------------------
+  Large Mobile :480px. 
+---------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+.sbi_photo_wrap img {
+	width:100%;
+}
+.sbi_photo_wrap {
+	float: left;
+	width: 33.33%;
+}
+.slider-icon {
+	right: 233px;
+	top: 113px;
+}
+.simple_slider_two .slider-icon {
+	top: 217px;
+}
+.simple_slider.simple_slider_two .slider_text > h2 {
+	font-size: 28px;
+}
+.simple_slider.simple_slider_two .slider_text > h1 {
+	font-size: 28px;
+}
+.team_thumb img {
+	width: 100%;
+}
+.single-video img {
+	background-size: cover;
+	height: 350px;
+}
+.blog_dtl_content h2 {
+	font-size: 35px;
+}
+}
