@@ -1,5 +1,8 @@
 作者: **[TIMCMS](https://t.me/timcms)**  
 gpt key购买: **[GPT Key](https://gpt.myyjjpp.com)**  
+## 服务器授权（单价授权 1/1）
+
+
 
 ## 素材包介绍
 >content  
