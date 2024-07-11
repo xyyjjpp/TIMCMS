@@ -4,7 +4,7 @@ gpt key购买: **[GPT Key](https://gpt.myyjjpp.com)**
 
 
 
-## 素材包介绍
+## 素材包介绍 ### 不包素材包,可以帮忙生成 不满意 自己去弄 不要和我逼逼赖赖
 >content  
 >> about_img - 关于我们部位的图片  
 >> about_txt - 关于我们部位的文字介绍  
